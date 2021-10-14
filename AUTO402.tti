@@ -1,0 +1,56 @@
+DE,Regional Weather
+CT,30,T
+PN,40201
+SC,0001
+PS,c000
+OL,0,XXXXXXXXECIMSBNMPServer5
+OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
+OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
+OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
+OL,4,    SOUTH    T//-,,/,,-.-.-.-.-.,,-.-.//
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BIncreasingly cloudyS5CSTATISTICS       
+OL,9,Bthrough the eveningS5C 
+OL,10,Band becoming a     S5G   Maximum       
+OL,11,Blittle breezier on S5GTemperatureC15C 
+OL,12,Bthe east coast.    S5G                 
+OL,13,BThicker cloud and  S5G   Minumum       
+OL,14,Bpatchy rain pushingS5GTemperatureC9C 
+OL,15,Bfrom the north     S5C                 
+OL,16,Bthrough the early  S5G
+OL,17,Bhours.             S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
+OL,21,                                    1/2 
+OL,22,D]GSOUTH CWeatherG402CTVG600 CTravelG437
+OL,23,D]CSportG390C AddressG170 CMAIN MENUG100
+OL,24,AOutlookB NIrelTravC Trav HeadFMain Menu
+FL,403,437,430,100,8FF,199
+PN,40202
+SC,0002
+PS,c000
+OL,0,XXXXXXXXECIMSBNMPServer5
+OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
+OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
+OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
+OL,4,    SOUTH    T//-,,/,,-.-.-.-.-.,,-.-.//
+OL,6,CFRIDAY
+OL,8,BEarly rain easing, S5CSTATISTICS       
+OL,9,Bbut staying cloudy S5C 
+OL,10,Binto the afternoon.S5G   Maximum       
+OL,11,BDry and brighter orS5GTemperatureC15C 
+OL,12,Bsunny spells then  S5G                 
+OL,13,Bdeveloping from theS5G   Minumum       
+OL,14,Bnorth, but feeling S5GTemperatureC9C 
+OL,15,Ba little cooler.   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
+OL,21,                                    2/2 
+OL,22,D]GSOUTH CWeatherG402CTVG600 CTravelG437
+OL,23,D]CSportG390C AddressG170 CMAIN MENUG100
+OL,24,AOutlookB NIrelTravC Trav HeadFMain Menu
+FL,403,437,430,100,8FF,199
